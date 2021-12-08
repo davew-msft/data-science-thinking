@@ -2,19 +2,16 @@
 
 Dave Wentzel  
 linkedin.com/in/dwentzel  
-11-2 
-
-![](./img/intro1.png)
-![](./img/intro2.png)
-![](./img/intro3.png)
+December 10, 2021  
+1-4pm EST
 
 ## Agenda
 
 |Time|Topic|Description|Audience|
 |---|---|---|---|
-|11-12:30|Anyone Can Do Data Science|Some theory; we walk through how to think differently about data.  [SLIDE DECK](https://git.davewentzel.com/workshops/ai-envisioning/-/blob/master/slides/02-Tech.pdf)|Business Leaders, IT managers, Developers, Analysts
-|12:45-1:50|Make Your Data Tell A Story|Data projects are difficult. But if your data tells a story it's much easier to convey meaning.|Business Leaders, IT managers, Developers, Analysts|
-|2-3:00|Avoiding Analytical Mistakes and Q&A|Data is hard.  Numbers are hard.  Make sure you don't make mistakes interpreting your data. I'll show you some methods that data scientists use to avoid making analytical mistakes.  [SLIDE DECK](./mistakes.pdf)|Business Leaders, IT managers, Developers, Analysts|
+|1-2:30|Anyone Can Do Data Science|Some theory; we walk through how to think differently about data to make it more predictive. Good data scientists do more than predictive analytics, but let's cover how that works first. [SLIDE DECK](tech.pdf)|Business Leaders, IT managers, Developers, Analysts
+|2:45-4:00|Make Your Data Tell A Story|Data projects are difficult. But if your data tells a story it's much easier to convey meaning. We also need to understand how to generate "feedback loops" from our users. |Business Leaders, IT managers, Developers, Analysts|
+|2-4:00|Feedback Loops|  [SLIDE DECK](feedback.pdf)|Business Leaders, IT managers, Developers, Analysts|
 
 
 ## Resources
