@@ -7,6 +7,11 @@ There are 3 branches:
 
 Order:
 
+_DataLiteracyOverivew.pptx
+02-tech.pptx
+DataStories.pptx
+
+
 * 00_presentation
 * 01-07 Quadratic
 * LoanChargeoff
@@ -14,24 +19,3 @@ Order:
 * Electric Vehicle
 * Databricks Soccer
 * Lab 300 data_train
-* CogS
-Lab500: Computer Vision
-Using CompViz with the SDK from Python
-
-
-Lab501: Face API
-Using the Face API
-
-
-Lab502: OCR capabilities
-optical character recognition
-
-
-Lab503: text analytics
-text analytics
-
-
-Lab504: Form Recognizer
-Form Recognizer
-
-72ddc4058d584e08bb26bc89d3ee279a
