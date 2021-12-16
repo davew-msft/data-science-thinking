@@ -20,3 +20,5 @@ December 10, 2021
 [My "notebooks everywhere" repo](https://github.com/davew-msft/notebooks-everywhere) is the basis for most of these demos
 
 
+* [CenterOfExcellence Deck](CoE.pdf)
+* [DesignThinking Slides](DT.pdf)
